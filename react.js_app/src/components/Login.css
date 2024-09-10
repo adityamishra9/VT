@@ -13,12 +13,12 @@
 .login h2 {
     font-size: 30px;
     margin: 20px 0 10px 0;
-    color: #fad533;
+    color: #fff;
     font-family: 'Varela Round', sans-serif;
 }
 
 .login .display {
-    color: #fad533;
+    color: #fff;
     font-size: 16px;
     margin-top: 4px;
     font-weight: 550;
@@ -39,7 +39,7 @@
 }
 
 .login form label {
-    color: #fad533;
+    color: #fff;
     margin: 8px 0;
     font-size: 20px;
     font-weight: 600;
@@ -58,7 +58,7 @@
     width: 30%;
     margin: 15px 0;
     margin-left: calc(70% / 2);
-    background-color: #99f4b6;
+    background-color: #a8cfb49d;
     border: 1px solid transparent;
     border-radius: 10px;
     font-size: 20px;
@@ -67,7 +67,7 @@
 }
 
 #login-btn:hover{
-    box-shadow: 2px 2px #d4b31e;
+    box-shadow: 2px 2px #0f6568;
 }
 
 .login a {
@@ -77,7 +77,7 @@
     margin-bottom: 15px;
     border: 1px solid transparent;
     border-radius: 10px;
-    background-color: #fad533;
+    background-color: #b3c7cf6e;
 }
 
 .login a p {
@@ -87,7 +87,7 @@
 }
 
 .login a p:hover{
-    border-bottom: 2px solid #aa9123;
+    border-bottom: 2px solid #ffffff44;
 }
 
 @media screen and (max-width: 800px) {
